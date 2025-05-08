@@ -1,0 +1,13 @@
+name: camera_app
+description: A simple Flutter app to capture a snapshot using the camera.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.6
+  permission_handler: ^11.0.1
+  path_provider: ^2.1.1
+  path: ^1.8.3
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
